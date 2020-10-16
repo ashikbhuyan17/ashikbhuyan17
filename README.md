@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on my web dev skills
 - 🌱 I’m currently learning Django and Django REST
--👯  I’m looking to collaborate on Python and Django
+- 👯  I’m looking to collaborate on Python and Django
 - 💬 Ask me anything
 - 📫 How to reach me:Twitter,Facebook
 - 😄 Pronouns:He/Him
