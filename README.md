@@ -1,5 +1,7 @@
 <h1 align="center">Hey, I'm ashik👋</h1>
 <h3 align="center">A passionate Back-End Developer</h3>
+https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/
+https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:barii.py@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub
 About me:
 
 - 🔭 I’m currently working on **my web dev skills**
@@ -9,8 +11,8 @@ About me:
 - 👯 I’m looking to collaborate on **Python and Django**
 
 - 💬 Ask me about **C,Python(Django)**
+- How to reach me ashikbhuyan.swe.diu@gmail.com
 
-- 📫 How to reach me **ashikbhuyan.swe.diu@gmail.com**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
