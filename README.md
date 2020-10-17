@@ -10,7 +10,6 @@ About me:
 - 👯 I’m looking to collaborate on **Python and Django**
 
 - 💬 Ask me about **C,Python(Django)**
-- How to reach me ashikbhuyan.swe.diu@gmail.com
 
 
 <p align="left">
