@@ -9,7 +9,7 @@ About me:
 
 - 👯 I’m looking to collaborate on **Python and Django**
 
-- 💬 Ask me about **C,Python(Django)**
+- 💬 Ask me about **C,Java,Python(Django)**
 
 
 <p align="left">
