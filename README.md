@@ -43,6 +43,10 @@ About me:
       <td>JavaScript</td>
       <td>Python</td>
     </tr>
+   <tr>
+      <td>JavaScript</td>
+      <td>Python</td>
+    </tr>
    
   </tbody>
 </table>
