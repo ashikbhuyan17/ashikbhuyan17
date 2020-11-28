@@ -3,7 +3,7 @@
 
 About me:
 
-- 🔭 I’m currently working on **My Web dev skills**
+- 🔭 I’m currently working on **My Web Dev skills**
 
 - 🌱 I’m currently learning **Django and Django REST**
 
