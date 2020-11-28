@@ -21,9 +21,9 @@ About me:
 
 ## Programming Languages
 
-```
-<h4>Python, C/C++, JavaScript</h4>
-```
+<h4>```
+Python, C/C++, JavaScript
+```</h4>
 <br>
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashikbhuyan17&layout=compact&theme=cobalt" alt="ashikbhuyan17"/>
