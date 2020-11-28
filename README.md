@@ -15,7 +15,7 @@ About me:
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/bhuyan_asik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bhuyan_asik" height="30" width="40" /></a>
-
+<a href="https://fb.com/ashikbhuyan17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ashikbhuyan17" height="30" width="40" /></a>
 <a href="https://ashikbhuyan.swe.diu@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="ashikbhuyan.swe.diu@gmail.com" height="30" width="40" /></a>
 </p>
 
