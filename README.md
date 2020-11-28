@@ -30,7 +30,7 @@ About me:
 <br>
 <br>
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashikbhuyan17&show_icons=true&theme=cobalt" alt="ashikbhuyan17"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashikbhuyan17&layout=compact&theme=radical" alt="ashikbhuyan17"/>
 </a>
 
 
