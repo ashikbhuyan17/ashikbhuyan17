@@ -31,24 +31,3 @@ About me:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashikbhuyan17&layout=compact&theme=cobalt" alt="ashikbhuyan17"/>
 </a>
 <br>
-<h3>Skill</h3>
-
-<table class="table table-striped table-dark">
-  <thead>
-    <tr>
-      <th scope="col">Language</th>
-      <th scope="col">Library/Framework</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>JavaScript</td>
-      <td>ReactJS</td>
-    </tr>
-   <tr>
-      <td>Python</td>
-      <td>Django</td>
-    </tr>
-   
-  </tbody>
-</table>
