@@ -31,7 +31,7 @@ About me:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashikbhuyan17&layout=compact&theme=cobalt" alt="ashikbhuyan17"/>
 </a>
 
-<table class="table table-striped">
+<table class="table table-striped table-dark">
   <thead>
     <tr>
       <th scope="col">#</th>
