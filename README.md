@@ -22,7 +22,7 @@ About me:
 ## Programming Languages
 
 ```
-Python, C/C++, JavaScript
+<h4>Python, C/C++, JavaScript</h4>
 ```
 <br>
 <a href="">
