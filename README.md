@@ -41,11 +41,11 @@ About me:
   <tbody>
     <tr>
       <td>JavaScript</td>
-      <td>Python</td>
+      <td>ReactJS</td>
     </tr>
    <tr>
-      <td>JavaScript</td>
       <td>Python</td>
+      <td>Django</td>
     </tr>
    
   </tbody>
