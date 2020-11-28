@@ -30,7 +30,8 @@ About me:
  
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashikbhuyan17&layout=compact&theme=cobalt" alt="ashikbhuyan17"/>
 </a>
-###Skill
+<br>
+<h3>Skill</h3>
 
 <table class="table table-striped table-dark">
   <thead>
