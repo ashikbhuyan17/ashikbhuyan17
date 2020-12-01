@@ -20,8 +20,7 @@ About me:
 <a href="https://ashikbhuyan.swe.diu@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="ashikbhuyan.swe.diu@gmail.com" height="30" width="40" /></a>
 </p>
 
-(https://img.shields.io/github/followers/jubelAhmed?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=jubelahmed.jubelahmed)
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
