@@ -19,6 +19,7 @@ About me:
 <a href="https://ashikbhuyan.swe.diu@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="ashikbhuyan.swe.diu@gmail.com" height="30" width="40" /></a>
 </p>
 
+<!--
 ## Programming Languages
 
 ```
@@ -33,7 +34,7 @@ Python, C/C++, JavaScript
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashikbhuyan17&show_icons=true&theme=cobalt" alt="ashikbhuyan17"/>
 </a>
-
+-->
 
 
 
