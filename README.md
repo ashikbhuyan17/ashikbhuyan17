@@ -26,7 +26,7 @@ About me:
 
 ```Python
 frontEnd = {
-            js: ["Jquery"],
+            js: ["Reactjs"],
             css: ["materialize", "bootstrap"]
           }
 backEnd: {
