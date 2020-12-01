@@ -12,9 +12,10 @@ About me:
 
 - 💬 Ask me about **C,Java,Python(Django)**
 
+<br>
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-Ashik_Bhuyan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashik17/)](https://www.linkedin.com/in/ashik17/)
 [![GitHub Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=ef5350&logo=github&logoColor=ffffff)](https://www.github.com/ashikbhuyan17)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-Ashik_Bhuyan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashik17/)](https://www.linkedin.com/in/ashik17/)
  [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/ashikbhuyan17)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:ashikbhuyan.swe.diu@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 
