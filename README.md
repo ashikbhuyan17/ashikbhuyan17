@@ -16,7 +16,7 @@ About me:
 
 [![GitHub Follow](https://img.shields.io/badge/%20-ashik17-black?color=14171A&labelColor=ef5350&logo=github&logoColor=ffffff)](https://www.github.com/ashikbhuyan17)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-ashik17-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashik17/)](https://www.linkedin.com/in/ashik17/)
- [![Facebook Follow](https://img.shields.io/badge/%20-Ashik_Bhuyan-black?color=14171A&labelColor=3F33FF&logo=facebook&logoColor=ffffff)](https://www.facebook.com/ashikbhuyan17)
+ [![Facebook Follow](https://img.shields.io/badge/%20-Ashik_Bhuyan-black?color=14171A&labelColor=ef5350&logo=facebook&logoColor=ffffff)](https://www.facebook.com/ashikbhuyan17)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:ashikbhuyan.swe.diu@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 
 
