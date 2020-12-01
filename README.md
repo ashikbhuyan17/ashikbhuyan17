@@ -4,7 +4,7 @@
 
 <h3>About me:</h3>
 
-- 🔭 I’m currently working on **My Web Dev skills**
+- 🔭 I’m currently working on **My Web Dev Skill**
 
 - 🌱 I’m currently learning **Django and Django REST**
 
