@@ -30,7 +30,7 @@ frontEnd = {
             css: ["materialize", "bootstrap"]
           }
 backEnd: {
-            js: ["node", "express"],
+       
             python: ["Django","Django Rest Framework"]
         }
 databases: ["MySql","sqlite"],
