@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm ashik👋<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
+<h1 align="center">Hey, I'm ashik<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
 <h3 align="center">A passionate Back-End Developer</h3>
 
 About me:
