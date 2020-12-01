@@ -14,10 +14,8 @@ About me:
 
 
 <p align="left">
-<h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/bhuyan_asik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bhuyan_asik" height="30" width="40" /></a>
-<a href="https://fb.com/ashikbhuyan17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ashikbhuyan17" height="30" width="40" /></a>
-<a href="https://ashikbhuyan.swe.diu@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="ashikbhuyan.swe.diu@gmail.com" height="30" width="40" /></a>
+ [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/ashikbhuyan17)
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:ashikbhuyan.swe.diu@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 </p>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
@@ -42,6 +40,10 @@ code: ["Python","Javascript", "java", "c","php"],
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 <!--
+<h3 align="left">Connect with me:</h3>
+<a href="https://twitter.com/bhuyan_asik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bhuyan_asik" height="30" width="40" /></a>
+<a href="https://fb.com/ashikbhuyan17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ashikbhuyan17" height="30" width="40" /></a>
+<a href="https://ashikbhuyan.swe.diu@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="ashikbhuyan.swe.diu@gmail.com" height="30" width="40" /></a>
 ## Programming Languages
 
 ```
