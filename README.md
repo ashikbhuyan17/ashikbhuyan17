@@ -35,7 +35,7 @@ backEnd: {
         }
 databases: ["MySql","sqlite"],
 
-code: ["Python","Javascript", "java", "c","php"],
+code: ["Python","Javascript", "java", "c"],
 
 ```
 
