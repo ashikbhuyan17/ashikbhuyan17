@@ -26,7 +26,7 @@
 
 ```Python
 frontEnd = {
-            js: ["Reactjs"],
+            js: ["React"],
             css: ["materialize", "bootstrap"]
           }
 backEnd: {
