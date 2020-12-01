@@ -19,6 +19,25 @@ About me:
 <a href="https://ashikbhuyan.swe.diu@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="ashikbhuyan.swe.diu@gmail.com" height="30" width="40" /></a>
 </p>
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```Python
+frontEnd = {
+            js: ["Jquery"],
+            css: ["materialize", "bootstrap"]
+          }
+backEnd: {
+            js: ["node", "express"],
+            python: ["Django","Django Rest Framework"]
+        }
+databases: ["MySql","PostgreSQL","mongodb","sqlite"],
+
+code: ["Python","Javascript", "java", "c","php"],
+
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
 <!--
 ## Programming Languages
 
