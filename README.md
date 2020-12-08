@@ -14,10 +14,19 @@
 
 <br>
 
-[![GitHub Follow](https://img.shields.io/badge/%20-ashik17-black?color=14171A&labelColor=ef5350&logo=github&logoColor=ffffff)](https://www.github.com/ashikbhuyan17)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-ashik17-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashik17/)](https://www.linkedin.com/in/ashik17/)
- [![Facebook Follow](https://img.shields.io/badge/%20-Ashik_Bhuyan-black?color=14171A&labelColor=ef5350&logo=facebook&logoColor=ffffff)](https://www.facebook.com/ashikbhuyan17)
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:ashikbhuyan.swe.diu@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
+
+
+ <a href="https://linkedin.com/in/ashik17/">
+    <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  </a>
+  <a href="https://twitter.com/bhuyan_ashik">
+    <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+  </a>
+  <a href="https://github.com/ashikbhuyan17"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/github.svg" width="30px" alt="mail"></a> 
+  <a href="mailto:aalhabib001@gmail.com">
+    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  </a>&nbsp; &nbsp;
+<a href="http://ashik17.herokuapp.com/"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/site.svg" width="30px" alt="site"></a>
 
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
@@ -46,6 +55,12 @@ code: ["Python","Javascript", "java", "c"],
 <a href="https://twitter.com/bhuyan_asik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bhuyan_asik" height="30" width="40" /></a>
 <a href="https://fb.com/ashikbhuyan17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ashikbhuyan17" height="30" width="40" /></a>
 <a href="https://ashikbhuyan.swe.diu@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="ashikbhuyan.swe.diu@gmail.com" height="30" width="40" /></a>
+
+
+<!-- [![GitHub Follow](https://img.shields.io/badge/%20-ashik17-black?color=14171A&labelColor=ef5350&logo=github&logoColor=ffffff)](https://www.github.com/ashikbhuyan17)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-ashik17-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashik17/)](https://www.linkedin.com/in/ashik17/)
+ [![Facebook Follow](https://img.shields.io/badge/%20-Ashik_Bhuyan-black?color=14171A&labelColor=ef5350&logo=facebook&logoColor=ffffff)](https://www.facebook.com/ashikbhuyan17)
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:ashikbhuyan.swe.diu@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 ## Programming Languages
 
 ```
