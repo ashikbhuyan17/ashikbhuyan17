@@ -19,11 +19,11 @@
  <a href="https://linkedin.com/in/ashik17/">
     <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
-  <a href="https://twitter.com/bhuyan_ashik">
+  <a href="https://twitter.com/bhuyan_asik">
     <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
   </a>
   <a href="https://github.com/ashikbhuyan17"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/github.svg" width="30px" alt="mail"></a> 
-  <a href="mailto:aalhabib001@gmail.com">
+  <a href="mailto:ashikbhuyan.swe.diu@gmail.com">
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>&nbsp; &nbsp;
 <a href="http://ashik17.herokuapp.com/"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/site.svg" width="30px" alt="site"></a>
