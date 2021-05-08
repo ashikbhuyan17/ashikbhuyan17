@@ -35,16 +35,18 @@
 
 ```Python
 frontEnd = {
-            js: ["React"],
+            js: ["React", "Redux"],
             css: ["materialize", "bootstrap"]
           }
 backEnd: {
        
-            python: ["Django","Django Rest Framework"]
+            javascript : ["Node.js", "Express.js"]
+            python: ["Django", "Django Rest Framework"]
+            
         }
-databases: ["MySql","sqlite"],
+databases: ["MongoDB", "MySql"],
 
-code: ["Python","Javascript", "java", "c"],
+code: ["Javascript", "c", "Python"],
 
 ```
 
