@@ -4,13 +4,13 @@
 
 <h3>About me:</h3>
 
-- 🔭 I’m currently working on **My Web Dev Skill**
+🔭 I’m currently working on **My Web Dev Skill**
 
-- 🌱 I’m currently learning **Node.js/Express.js**
+🌱 I’m currently learning **Node.js/Express.js**
 
-- 👯 I’m looking to collaborate on **React,Redux and Express.js**
+👯 I’m looking to collaborate on **React,Redux and Express.js**
 
-- 💬 Ask me about **JavaScript(React,Express.js),Python(Django), C programming**
+💬 Ask me about **JavaScript(React,Express.js),Python(Django), C programming**
 
 <br>
 
