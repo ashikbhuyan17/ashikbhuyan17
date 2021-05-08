@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">I'm Ashik Bhuyan <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="35"> </h1>
-<h3 align="center">A passionate Back-End Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3 align="center">A passionate MERN Stack Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 
 <h3>About me:</h3>
 
