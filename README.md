@@ -44,9 +44,9 @@ backEnd: {
             python: ["Django", "Django Rest Framework"]
             
         }
-databases: ["MongoDB", "MySql"],
+databases: ["MongoDB","mongoosejs" "PostgreSQL "],
 
-code: ["Javascript", "c", "Python"],
+code: ["Javascript","TypeScript", "c", "Python"],
 
 ```
 
