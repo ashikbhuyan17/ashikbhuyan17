@@ -35,8 +35,8 @@
 
 ```Python
 frontEnd = {
-            js: ["React", "Redux"],
-            css: ["materialize", "bootstrap"]
+            js: ["React", "Redux","Angularjs"],
+            css: ["bootstrap","NG-ZORRO"]
           }
 backEnd: {
        
