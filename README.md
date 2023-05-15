@@ -7,6 +7,10 @@
   <a href="https://linkedin.com/in/ahik17/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+   <a href="https://fb.com/ahikbhuyan17">
+  <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  </a>
+                           
 <!--   <a href="https://youtube.com/@proMehedi">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/>
   </a> -->
@@ -17,7 +21,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
-<h1 align="center"><img src="https://komarev.com/ghpvc/?username=promehedi&style=flat-square&color=blue" alt=""></h1>
+<h1 align="center"><img src="https://komarev.com/ghpvc/?username=ashikbhuyan17&style=flat-square&color=blue" alt=""></h1>
 
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">, I'm Ashik! - [🔗ashikDev👨🏻‍💻](https://ashik17.vercel.app/)
 
@@ -67,19 +71,27 @@ Passionate about learning new techs, I am looking to join a high performing and 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...   -->
 
 ```Python
-frontEnd = {
-            js: ["React", "Redux","Angularjs"],
-            css: ["bootstrap","NG-ZORRO"]
-          }
-backEnd: {
-       
-            javascript : ["Node.js", "Express.js"]
-            python: ["Django", "Django Rest Framework"]
-            
-        }
-databases: ["MongoDB","mongoosejs" "PostgreSQL "],
+Front-End : {
 
-code: ["Javascript","TypeScript", "c", "Python"],
+            js: ["React", "Redux", "Angularjs"],
+            css: ["Bootstrap", "Tailwind CSS, "Material-UI", NG-ZORRO"]
+            
+            }
+          
+Back-End : {
+
+            javascript : ["Node.js", "Express.js", "Nest.js"]
+            python: ["Django", "Django Rest Framework"]  
+            
+            }
+        
+DATABASES : ["MongoDB", "PostgreSQL"],
+
+ORM : ["TypeORM", "Prisma"],
+
+ODM : ["Mongoose"],
+
+CORE : ["Javascript", "TypeScript", "Python", "c",]
 
 ```
 
