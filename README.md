@@ -4,17 +4,17 @@
   <a href="https://www.facebook.com/ashikbhuyan17">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://linkedin.com/in/ahik17/">
+  <a href="https://www.linkedin.com/in/ashik17/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-   <a href="https://fb.com/ahikbhuyan17">
+   <a href="https://github.com/ashikbhuyan17">
   <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a>
                            
 <!--   <a href="https://youtube.com/@proMehedi">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/>
   </a> -->
-  <a href="ashikbhuyan.swe.diu@gmail.com">
+  <a href="mailto:ashikbhuyan.swe.diu@gmail.com">
     <img src="https://img.shields.io/badge/email-%23d14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://twitter.com/bhuyan_asik">
