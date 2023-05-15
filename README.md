@@ -1,4 +1,37 @@
-### Hi there 👋
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+<p align="center">
+<p align="center">
+  <a href="https://fb.com/ahikbhuyan17">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://linkedin.com/in/ahik17/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+<!--   <a href="https://youtube.com/@proMehedi">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/>
+  </a> -->
+  <a href="ashikbhuyan.swe.diu@gmail.com">
+    <img src="https://img.shields.io/badge/email-%23d14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://twitter.com/bhuyan_asik">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</p>
+<h1 align="center"><img src="https://komarev.com/ghpvc/?username=promehedi&style=flat-square&color=blue" alt=""></h1>
+
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">, I'm Ashik! - [🔗ashikDev👨🏻‍💻](https://ashik17.vercel.app/)
+
+I'm a full stack web developer with over 1+ years of experience in building web applications. I specialize in developing scalable and responsive web applications using modern technologies and frameworks. <br />
+Passionate about learning new techs, I am looking to join a high performing and dynamic team where I can refine my skill set.
+
+💻  I’m currently working on **My Web Dev Skill** <br>
+🌱 As always love to learn all the latest technologies.
+
+| ![Mehedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashikbhuyan17&count_private=true&show_icons=true&theme=cobalt) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashikbhuyan17&langs_count=8&hide=java,Objective-C,ejs,php,shell,starlark&theme=cobalt&layout=compact) |
+|--|--|
+
+
+<!-- ### Hi there 👋
 <h1 align="center">I'm Ashik Bhuyan <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="35"> </h1>
 <h3 align="center">A passionate MERN Stack Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 
@@ -31,7 +64,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...   -->
 
 ```Python
 frontEnd = {
