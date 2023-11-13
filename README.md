@@ -24,7 +24,7 @@
 <h1 align="center"><img src="https://komarev.com/ghpvc/?username=ashikbhuyan17&style=flat-square&color=blue" alt=""></h1>
 
 <!-- ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" /> I'm Ashik! - [🔗ashikDev👨🏻‍💻](https://ashik17.vercel.app/) -->
-## I'm Ashik! - [ashikDev👨🏻‍💻](https://ashik17.vercel.app/)
+## I'm Ashik - [ashikDev👨🏻‍💻](https://ashik17.vercel.app/)
 
 
 I'm a full stack web developer with over 1+ years of experience in building web applications. I specialize in developing scalable and responsive web applications using modern technologies and frameworks. Passionate about learning new techs, I am looking to join a high performing and dynamic team where I can refine my skill set.
