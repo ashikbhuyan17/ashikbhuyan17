@@ -27,7 +27,7 @@
 ## I'm Ashik - [ashikDev👨🏻‍💻](https://ashik17.vercel.app/)
 
 
-I'm a full stack web developer with over 1+ years of experience in building web applications. I specialize in developing scalable and responsive web applications using modern technologies and frameworks. Passionate about learning new techs, I am looking to join a high performing and dynamic team where I can refine my skill set.
+I'm a full stack web developer with over 2+ years of experience in building web applications. I specialize in developing scalable and responsive web applications using modern technologies and frameworks. Passionate about learning new techs, I am looking to join a high performing and dynamic team where I can refine my skill set.
 
 💻  I’m currently working on **My Web Dev Skill** <br>
 🌱 As always love to learn all the latest technologies.
